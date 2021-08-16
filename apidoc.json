@@ -1,0 +1,9 @@
+{
+    "name": "Documentación API Test",
+    "version": "v1.0.0",
+    "description": "Guia de integración con API Test",
+    "template": {
+        "forceLanguage": "es"
+    },
+    "sampleUrl": null
+}
